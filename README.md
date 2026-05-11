@@ -409,7 +409,7 @@ NutriSnap is a smart nutrition and health tracking application that helps users 
 
 ## 👩‍💻 Author
 
-**Jyoti**  
+**Jyoti Kumari**  
 Student Researcher | Developer | Tech Enthusiast
 
 
