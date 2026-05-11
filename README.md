@@ -27,7 +27,7 @@ A Sustainable, Low-Cost Solution for Heat Stress in Construction, Agriculture, R
 12.  [Conclusion](#conclusion)
 13.  [References](#references)
 
-Section 1
+**Section 1**
 
 ## Abstract
 
@@ -37,7 +37,7 @@ This paper proposes and analyses the design of a lightweight, solar-powered wear
 
 **Keywords:** Solar wearable cooling, heat stress, outdoor workers, flexible photovoltaic, evaporative cooling, occupational health, sustainable engineering, low-cost cooling, India, renewable energy wearable.
 
-Section 2
+**Section 2**
 
 ## Introduction
 
@@ -49,7 +49,7 @@ Solar energy, by its intrinsic nature, is maximally available precisely when and
 
 The paper is organized as follows: Section 3 defines the problem statement; Section 4 catalogues the existing challenges workers face; Section 5 describes the proposed device design; Section 6 details the working mechanism; Section 7 presents cost analysis; Sections 8–10 address worker benefits, environmental impact, and feasibility; and Section 11 outlines future development directions.
 
-Section 3
+**Section 3**
 
 ## Problem Statement
 
@@ -69,7 +69,7 @@ The problem is compounded by nutritional precarity. A significant proportion of 
 
 **Key statistic:** India lost an estimated 160 billion labor hours to heat exposure in 2021 — equivalent to approximately 5.4% of GDP — making heat stress one of the largest single sources of productivity suppression in the national economy. [\[1\]](#ref1)
 
-Section 4
+**Section 4**
 
 ## Existing Challenges for Workers
 
@@ -93,10 +93,10 @@ The target population — informal-sector outdoor workers — typically earns be
 
                      Table 1: Summary of existing heat mitigation approaches and their limitations for informal outdoor workers.
 
-<img width="897" height="591" alt="Screenshot 2026-05-11 205355" src="https://github.com/user-attachments/assets/1845b18c-2bdc-453f-b340-1a6cd35b5f48" />
+  <img width="897" height="591" alt="Screenshot 2026-05-11 205355" src="https://github.com/user-attachments/assets/1845b18c-2bdc-453f-b340-1a6cd35b5f48" />
 
 
-Section 5
+**Section 5**
 
 ## Proposed Device Design
 
@@ -112,9 +112,8 @@ The device consists of five integrated modules:
 4.  **Evaporative Cooling Pad:** A moisture-retaining cellulose or synthetic fibre cooling pad positioned inline within the airflow duct. When wetted (requiring only 20–30 ml of water, easily replenished during standard hydration breaks), the pad reduces the temperature of passing air by 8–17°C through evaporation, depending on ambient relative humidity. [\[5\]](#ref5) In high-humidity coastal regions, the effective reduction will be towards the lower end of this range; in arid climates such as Rajasthan, reductions approaching the upper end are achievable.
 5.  **Structural Frame and Harness:** A lightweight adjustable frame — total structural weight under 350 g — with padded nylon shoulder straps and a breathable mesh back panel ensures the device distributes load ergonomically and does not impede natural upper-body movement. Air outlet vents are positioned at the collar-line (neck), temporal sides (head), and upper back.
 
-![Solar Powered Wearable Cooling Device – physical configuration illustration](https://tmpfiles.org/dl/35368286/device_design_illustration.png)
 
-Figure 3: Physical configuration of the proposed SPWCD showing the five integrated modules — solar canopy, flexible panel, blower fan, evaporative cooling pad, and structural harness.
+
 
 ### 5.2 Weight and Ergonomics
 
@@ -122,130 +121,24 @@ The total assembled weight of the SPWCD is estimated at approximately 580–680 
 
 ### 5.3 Comparison with Existing Products
 
-Table 2: Feature comparison of the proposed SPWCD against representative existing products.
+                       Table 2: Feature comparison of the proposed SPWCD against representative existing products.
 
-Feature
+<img width="988" height="658" alt="Screenshot 2026-05-11 205750" src="https://github.com/user-attachments/assets/01e8e9ff-81d9-4c63-9377-3fe11d4dc53b" />
 
-SPWCD (Proposed)
 
-Sony Reon Pocket 5
 
-Vismac Fan Vest
-
-PCM Ice Vest
-
-Power source
-
-Solar (autonomous)
-
-Grid-charged battery
-
-Power bank
-
-None (passive)
-
-Continuous duration
-
-Full daylight hours
-
-4–17 hr (battery)
-
-3–6 hr (power bank)
-
-2–2.5 hr (PCM melt)
-
-Coverage zone
-
-Head, neck, upper back
-
-Neck/back (point contact)
-
-Torso
-
-Torso
-
-Shade provision
-
-Yes (canopy)
-
-No
-
-No
-
-No
-
-Estimated cost (India)
-
-₹1,900 – ₹2,800
-
-₹15,260 [\[3\]](#ref3)
-
-₹1,999 + power bank
-
-₹1,500–₹2,500
-
-Field-repairable
-
-Yes
-
-No
-
-Partial
-
-Yes
-
-Grid-independent
-
-Yes
-
-No
-
-No
-
-Yes
-
-Section 6
+**Section 6**
 
 ## Working Mechanism
 
 The SPWCD operates on the integration of two energy conversion processes: photovoltaic electricity generation and evaporative thermodynamics. Their combination yields a net cooling effect sufficient to meaningfully reduce the thermal load on a worker's head, neck, and back throughout the full working day.
 
-![Solar Powered Wearable Cooling Device – design illustration](https://tmpfiles.org/dl/35367375/device_illustration.png)
+<img width="936" height="541" alt="Screenshot 2026-05-11 205917" src="https://github.com/user-attachments/assets/8584c4d0-8707-4533-8713-3dcc7558a282" />
 
-Figure 2: Solar Powered Wearable Cooling Device — head, neck, and back coverage design illustration.
 
-Figure 1 — SPWCD System Flow Diagram
 
-Flexible Solar  
-Panel (5–10 W)
 
-→
 
-Voltage Regulator  
-(5 V DC output)
-
-→
-
-Centrifugal  
-Blower Fan
-
-→
-
-Evaporative  
-Cooling Pad
-
-→
-
-Air Outlets  
-(Neck / Head / Back)
-
-**Solar Input:** 5–10 W peak; 770 mW min. at low irradiance (overcast sky). Panel efficiency 12–16% (CIGS) or ~5% (a-Si). [\[6\]](#ref6)
-
-**Blower Fan:** 5 V DC; 0.25–0.35 W; airflow ~0.12 CFM; noise <21 dB (Sunon Mighty Mini series). [\[7\]](#ref7)
-
-**Cooling Pad:** Passive evaporative; temperature drop 8–17.3°C depending on RH; replenished with 20–30 ml water. [\[5\]](#ref5)
-
-**Optional Storage:** Small 18650 Li-ion cell (2,500 mAh, ₹150–₹200) buffers surplus solar power for brief cloud-cover intervals or pre-dawn start-up.
 
 ### 6.1 Solar Energy Capture
 
@@ -273,113 +166,14 @@ Section 7
 
 Affordability is the central criterion distinguishing the SPWCD from all existing alternatives. The cost estimates below are derived from current retail pricing on Indian electronics and components marketplaces (Robu.in and IndiaMart, April 2026). [\[8\]](#ref8) Bulk procurement at manufacturing scale (1,000+ units) is expected to reduce component costs by 30–50% relative to retail figures.
 
-Table 3: Bill of materials and cost estimate for SPWCD prototype (Indian market, April 2026).
+                  Table 3: Bill of materials and cost estimate for SPWCD prototype (Indian market, April 2026).
+<img width="898" height="637" alt="Screenshot 2026-05-11 210045" src="https://github.com/user-attachments/assets/f439feba-bc30-449e-9d39-139d98c54616" />
+<img width="908" height="388" alt="Screenshot 2026-05-11 210113" src="https://github.com/user-attachments/assets/d7ccd938-6229-489d-911d-fff886b1bab7" />
 
-Component
-
-Specification
-
-Unit Cost (INR) — Retail
-
-Unit Cost (INR) — Bulk
-
-Flexible solar panel
-
-10 W, CIGS or a-Si, semi-rigid
-
-₹750 – ₹1,100
-
-₹400 – ₹600
-
-Centrifugal blower fan
-
-5 V DC, brushless, 5015 series
-
-₹95 – ₹150
-
-₹50 – ₹90
-
-Evaporative cooling pad
-
-Cellulose / synthetic fibre, 100 cm²
-
-₹80 – ₹150
-
-₹40 – ₹80
-
-Buck-converter voltage regulator
-
-5 V DC output, <1 W loss
-
-₹30 – ₹60
-
-₹15 – ₹30
-
-HDPE / PP canopy frame
-
-UV-stabilised, injection moulded
-
-₹200 – ₹350
-
-₹80 – ₹150
-
-Nylon harness, straps & mesh back
-
-Adjustable, padded, breathable
-
-₹150 – ₹250
-
-₹70 – ₹120
-
-Air ducts & outlet fittings
-
-Flexible PVC tubing, 10 mm diameter
-
-₹50 – ₹100
-
-₹25 – ₹50
-
-Wiring, connectors & switches
-
-22 AWG, JST connectors, UV-resistant
-
-₹60 – ₹100
-
-₹30 – ₹60
-
-18650 Li-ion buffer cell (optional)
-
-2,500 mAh, 3.7 V
-
-₹150 – ₹200
-
-₹80 – ₹120
-
-Assembly labour (India)
-
-Semi-skilled, 45 minutes per unit
-
-₹60 – ₹100
-
-₹30 – ₹60
-
-Total (without buffer cell)
-
-—
-
-₹1,475 – ₹2,360
-
-₹740 – ₹1,240
-
-Total (with buffer cell)
-
-—
-
-₹1,625 – ₹2,560
-
-₹820 – ₹1,360
 
 Adding a standard retail margin of 15–20% and distribution costs, the final retail price of a commercially produced SPWCD is projected at **₹1,900 – ₹2,800** at individual purchase, falling to **₹950 – ₹1,600** under employer bulk procurement at scale. [\[8\]](#ref8)
+
+**Section 7**
 
 ### 7.1 Global Low-Cost Manufacturing Potential
 
@@ -389,7 +183,7 @@ Beyond India, the device's component set is compatible with manufacturing ecosys
 
 From an employer perspective, the investment in SPWCD per worker is recoverable within approximately 3–5 working days if it prevents a single heat-exhaustion incident that would otherwise result in a worker's absence — a conservative assumption given that heat-related productivity suppression is a daily, measurable phenomenon. Construction and agricultural contractors who procure the device in bulk and provide it as personal protective equipment (PPE) stand to realize significant productivity dividends while also reducing their liability exposure to occupational heat illness claims.
 
-Section 8
+**Section 8**
 
 ## Benefits to Workers
 
@@ -413,7 +207,7 @@ The device requires no consumables beyond occasional cooling-pad water replenish
 
 Though less quantifiable than physiological metrics, the psychological dimension of knowing one is protected — rather than merely enduring — carries real occupational significance. Workers who feel their employer or device has provided effective heat protection report higher job satisfaction, lower occupational fatigue at end-of-day, and greater willingness to comply with hydration and rest protocols. Personal thermal protection also reduces the silent distress of workers who feel unable to request rest breaks due to social or economic pressure, by removing the physiological necessity of enduring heat beyond their tolerance threshold.
 
-Section 9
+**Section 9**
 
 ## Environmental Impact
 
@@ -437,7 +231,7 @@ Future iterations of the device are well-suited to integration with bio-based an
 
 The SPWCD represents a category of technology that is directly climate-adaptive: it uses a renewable resource (solar radiation) to counteract a climate-change-amplified harm (occupational heat stress). Unlike conventional air conditioning, which reduces indoor heat but increases waste heat dumped into the urban atmosphere, contributing to urban heat island intensification, the SPWCD works with thermodynamic flows rather than against them — capturing radiant energy that would otherwise heat the worker and converting it into protective cooling energy. This intrinsic alignment with natural energy flows makes the device not merely low-impact but actively adaptive in its environmental relationship.
 
-Section 10
+**Section 10**
 
 ## Feasibility and Reliability
 
@@ -467,7 +261,7 @@ The device operates at a maximum voltage of 12 V DC (solar panel open-circuit) a
 
 The assembled SPWCD folds or disassembles to a packed volume of approximately 30 cm × 25 cm × 8 cm — fitting within a standard worker's backpack or tool bag. The canopy arm joints use a simple locking-hinge mechanism, enabling full assembly and disassembly in under two minutes. This portability is critical for multi-site workers — delivery riders, agricultural contract labourers, and road-laying crews who move between locations throughout the week.
 
-Section 11
+**Section 11**
 
 ## Future Improvements
 
@@ -495,7 +289,7 @@ Partnership with social enterprises or government programs focused on rural manu
 
 At a unit cost below ₹2,800, the SPWCD falls within the range of personal protective equipment procurable under India's National Building Code provisions, ESIC (Employees' State Insurance Corporation) occupational health initiatives, and MGNREGS (Mahatma Gandhi National Rural Employment Guarantee Scheme) worker welfare programs. Future development should include engagement with these institutional procurement channels to ensure the device reaches the workers with greatest need through subsidised or employer-mandated distribution, rather than relying solely on individual worker purchasing capacity.
 
-Section 12
+**Section 12**
 
 ## Conclusion
 
