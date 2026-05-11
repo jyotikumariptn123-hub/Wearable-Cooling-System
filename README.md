@@ -91,63 +91,10 @@ The target population — informal-sector outdoor workers — typically earns be
 
 ### 4.4 Summary of Key Challenges
 
-Table 1: Summary of existing heat mitigation approaches and their limitations for informal outdoor workers.
+                     Table 1: Summary of existing heat mitigation approaches and their limitations for informal outdoor workers.
 
-Approach
+<img width="897" height="591" alt="Screenshot 2026-05-11 205355" src="https://github.com/user-attachments/assets/1845b18c-2bdc-453f-b340-1a6cd35b5f48" />
 
-Mechanism
-
-Primary Limitation
-
-Cost
-
-Shade canopies
-
-Blocks direct solar radiation
-
-Immobile; unavailable for most field tasks
-
-Low (employer)
-
-Hydration protocols
-
-Supports internal thermoregulation
-
-Insufficient at extreme WBGT; compliance-dependent
-
-Low
-
-Ice/PCM cooling vest
-
-Passive conductive cooling
-
-2–2.5 hr effective duration; no recharging in field
-
-₹1,500–₹2,500
-
-Battery fan vest (Vismac)
-
-Forced air circulation
-
-Power-bank dependent; no solar charging
-
-₹1,999 + power bank
-
-Thermoelectric vest (Sony)
-
-Peltier cooling against skin
-
-High cost; consumer-grade fragility; charges from grid only
-
-₹15,260 [\[3\]](#ref3)
-
-Fixed air-conditioning
-
-Active refrigerant cooling
-
-Immobile; requires grid power; irrelevant for field workers
-
-Very high
 
 Section 5
 
