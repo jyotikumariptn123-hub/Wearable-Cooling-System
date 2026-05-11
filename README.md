@@ -104,6 +104,21 @@ The proposed Solar-Powered Wearable Cooling Device (SPWCD) is conceived as a sel
 
 <img width="1402" height="1122" alt="ChatGPT Image Apr 26, 2026, 02_15_24 PM" src="https://github.com/user-attachments/assets/e6136954-4bb0-4c02-8585-86e1e84e6f71" />
 
+## Differnt Models:-
+
+<img width="1402" height="1122" alt="ChatGPT Image Apr 26, 2026, 02_22_18 PM" src="https://github.com/user-attachments/assets/fc78b8dc-6c75-4f9f-be48-587e45b890be" />
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 27, 2026, 11_50_07 AM" src="https://github.com/user-attachments/assets/a5fc065e-2c5f-42a0-8aa1-7c62772c756c" />
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 27, 2026, 12_49_58 PM" src="https://github.com/user-attachments/assets/0dc91416-21b2-4a26-b2e2-db29ecbfd9b9" />
+
+<img width="1176" height="1337" alt="ChatGPT Image Apr 27, 2026, 12_52_35 PM" src="https://github.com/user-attachments/assets/3b333b9a-7323-4e66-bba6-c952d04a53f0" />
+
+<img width="1324" height="1188" alt="ChatGPT Image Apr 27, 2026, 12_52_46 PM" src="https://github.com/user-attachments/assets/844d6002-73c2-420c-a454-7fe8ef8b8928" />
+
+<img width="1536" height="1024" alt="ChatGPT Image Apr 27, 2026, 12_52_55 PM" src="https://github.com/user-attachments/assets/c5a0db3d-e948-4cb0-b144-401a46cf958b" />
+
+
 
 ### 5.1 Physical Configuration
 
