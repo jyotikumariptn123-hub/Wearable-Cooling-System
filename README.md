@@ -102,6 +102,9 @@ The target population — informal-sector outdoor workers — typically earns be
 
 The proposed Solar-Powered Wearable Cooling Device (SPWCD) is conceived as a self-contained, body-worn thermal management unit designed to be worn over or integrated into standard workwear. It covers the three anatomical zones most critical to occupational heat management: the **head and scalp** (primary radiation exposure surface), the **neck and carotid zone** (site of major blood vessels through which cooling the skin produces rapid core temperature reduction), and the **upper back** (large surface area ideal for both solar panel mounting and convective air delivery). The device operates entirely from solar energy captured during the workday and requires no grid connection, disposable batteries, or employer-provided infrastructure.
 
+<img width="1402" height="1122" alt="ChatGPT Image Apr 26, 2026, 02_15_24 PM" src="https://github.com/user-attachments/assets/e6136954-4bb0-4c02-8585-86e1e84e6f71" />
+
+
 ### 5.1 Physical Configuration
 
 The device consists of five integrated modules:
