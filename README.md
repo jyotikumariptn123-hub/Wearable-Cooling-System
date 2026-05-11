@@ -106,19 +106,34 @@ The proposed Solar-Powered Wearable Cooling Device (SPWCD) is conceived as a sel
 
 ### Differnt Models & Angle:-
 
-## - No.1
+## 1. Solar Powered Wearable Cooling Device (Canopy Design)
+
+This image shows a backpack-style wearable cooling system with a solar-powered canopy mounted above the user’s head. The design includes a lightweight support frame, air intake vents, internal airflow channels, cooling pads, and shoulder straps for comfort. Cool air flows upward from the back unit toward the head and neck area, providing protection from heat and direct sunlight. The system is designed for outdoor workers and high-temperature environments.
 <img width="1402" height="1122" alt="ChatGPT Image Apr 26, 2026, 02_22_18 PM" src="https://github.com/user-attachments/assets/fc78b8dc-6c75-4f9f-be48-587e45b890be" />
 
-## - No.2
+
+
+## 2. Full Head, Neck & Back Coverage Cooling Device
+
+This diagram presents an upgraded wearable cooling device with extended coverage for the head, neck, and back. The system uses solar energy, evaporative cooling technology, and controlled airflow channels to circulate cool air throughout the upper body. It highlights key features such as lightweight materials, low power consumption, ergonomic design, and long operating hours. The image also includes specifications, airflow process, and component breakdowns.
 <img width="1536" height="1024" alt="ChatGPT Image Apr 27, 2026, 11_50_07 AM" src="https://github.com/user-attachments/assets/a5fc065e-2c5f-42a0-8aa1-7c62772c756c" />
 
-## - No.3
+
+
+## 3. Advanced Solar Power Wearable Cooling Device
+
+This illustration demonstrates an advanced airflow mechanism for maximum cooling efficiency. The device pulls ambient air through filters and cooling pads before distributing cool air evenly across the back, neck, and shoulders through multiple vents. The image explains airflow paths, cooling layers, and ergonomic comfort features. It emphasizes benefits such as reduced heat stress, lower body temperature, improved worker safety, and eco-friendly solar operation.
 <img width="1536" height="1024" alt="ChatGPT Image Apr 27, 2026, 12_49_58 PM" src="https://github.com/user-attachments/assets/0dc91416-21b2-4a26-b2e2-db29ecbfd9b9" />
 
-## - No.4
+
+## 4. Back Side Air Delivery System
+
+This image focuses on the rear airflow structure of the wearable cooling device. It shows how solar-powered fans pull outside air into the system and direct cooled air upward through internal air channels. The cool air exits near the shoulders and neck area, improving ventilation and comfort. The design features adjustable straps, a compact solar panel, and a lightweight wearable frame for practical daily use.
 <img width="1176" height="1337" alt="ChatGPT Image Apr 27, 2026, 12_52_35 PM" src="https://github.com/user-attachments/assets/3b333b9a-7323-4e66-bba6-c952d04a53f0" />
 
-## - No.5
+## 5. Front Side Cooling Wearable Design
+
+This image presents the front-facing appearance of the wearable cooling system. The chest-mounted cooling unit and shoulder air outlets direct cool airflow toward the user’s neck and upper body. A compact solar panel powers the system while adjustable straps secure the device comfortably. The design combines portability, ventilation, and modern wearable technology for heat management in outdoor conditions.
 <img width="1324" height="1188" alt="ChatGPT Image Apr 27, 2026, 12_52_46 PM" src="https://github.com/user-attachments/assets/844d6002-73c2-420c-a454-7fe8ef8b8928" />
 
 
